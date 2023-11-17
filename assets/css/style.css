@@ -532,3 +532,5 @@ footer
 	background-color: #323332;
 }
 
+
+@import url(./media_query.css);
